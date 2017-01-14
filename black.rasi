@@ -10,6 +10,7 @@
 
 #window box	{
 	border:			1px;
+	padding:		3px;
 }
 
 #window mainbox listview element selected {
