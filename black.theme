@@ -1,6 +1,0 @@
-rofi.color-enabled:					true
-rofi.color-normal:                  #000,#fff,#000,#fff,#000
-rofi.color-urgent:                  #fdf6e3,#dc322f,#eee8d5,#dc322f,#fdf6e3
-rofi.color-active:                  #fdf6e3,#268bd2,#eee8d5,#268bd2,#fdf6e3
-rofi.color-window:                  #000,#8d8d8d
-rofi.separator-style:               none
